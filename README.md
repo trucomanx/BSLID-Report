@@ -19,9 +19,6 @@ Templates for the presentation and processing of biospeckle data.
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.46396
-
-
 [![DOI](https://zenodo.org/badge/18474/trucomanx/BiospeckleData-Templates.svg)](https://zenodo.org/badge/latestdoi/18474/trucomanx/BiospeckleData-Templates)
 
 
