@@ -9,6 +9,11 @@
 %    The last version of this template can be downloaded of http://trucomanx.github.io/BiospeckleData-Templates/
 %
 \documentclass[a4paper,10pt]{article}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+
 \usepackage{hyperref}
 \usepackage[bottom=2cm,top=3cm,left=3cm,right=2cm]{geometry}
 \usepackage[utf8]{inputenc}
@@ -43,9 +48,8 @@
 \begin{abstract}
 Images to research the development of a seeds viability test using the biospeckle technique.
 \end{abstract}
-
-\begin{table}[h]
-\centering
+~
+\begin{minipage}[c]{0.5\textwidth}
 \begin{tabular}{l |l}
 \hline
 \textbf{Name} 	& \textbf{Value}  \\ \hline \hline	
@@ -64,16 +68,23 @@ Last image	& 100.bmp\\
 First reference of data	& \cite{ref1} \\ 
 \hline
 \end{tabular}
-\caption{Biospeckle data of a maize seed}
-\label{my-label}
-\end{table}
+%\captionof{table}{Biospeckle data of a maize seed.}
+\end{minipage}
+\begin{minipage}[c]{0.5\textwidth}
+\begin{center}
+\includegraphics[width=0.6\linewidth]{example/testgendiff.eps}
+\captionof{figure}{Example of biospeckle index.}
+\end{center}
+\end{minipage}
+
 
 \section*{Details}
 The images are located in the directory \lstinline!MaizeSeed!.
 
 \section*{Citation}
 We have invested a lot of time and effort in to get this data, please cite it
-when using it \footnote{The template of this file report can be downloaded of \url{http://trucomanx.github.io/BiospeckleData-Templates/}}.
+when using it \footnote{The template of this file report can be downloaded of 
+\url{http://trucomanx.github.io/BiospeckleData-Templates/}}.
 \begin{lstlisting}[language=Bash]
 @misc{ maizeseed1,
     author = {John Doe},
