@@ -1,8 +1,8 @@
 # BiospeckleData-Templates
-Templates for the presentation and processing of biospeckle data.
+Templates for the presentation and processing of biospeckle data. 
 
 ## Directory structure
-* **Data-Template:** Has a template in Latex for the creation of a readme PDF file for the presentation of biospeckle data.
+* **Data-Template:** Has a template in Latex for the creation of a readme PDF file for the presentation of biospeckle data. Example [here](https://github.com/trucomanx/BiospeckleData-Templates/raw/master/Data-Template/readme.pdf).
 * **Processing-Template:** Has a set of examples, using the library BSLTL, for processing the biospeckle data.
 
 ## Cite
