@@ -1,5 +1,5 @@
-# BiospeckleData-Templates
-Templates for the presentation of biospeckle data. 
+# BSL Images Data Report
+Template for the biospeckle-laser images data report. 
 
 ## Directory structure
 * **Data-Template:** Has a template in Latex for the creation of a readme PDF file for the presentation of biospeckle data. Example [here](https://github.com/trucomanx/BiospeckleData-Templates/raw/master/Data-Template/readme.pdf).
@@ -21,7 +21,7 @@ Templates for the presentation of biospeckle data.
 
 
 ## Repository
-https://github.com/trucomanx/BiospeckleData-Templates
+https://github.com/trucomanx/BSLID-Report
 
 ## Website 
-http://trucomanx.github.io/BiospeckleData-Templates/
+http://trucomanx.github.io/BSLID-Report/
