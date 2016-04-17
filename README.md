@@ -8,15 +8,15 @@ Template for the biospeckle-laser images data report.
 
 	@misc{fernando_pujaico_rivera,
 	  author       = {Fernando Pujaico Rivera},
-	  title        = {{BiospeckleData-Templates: Data report examples v1.4}},
-	  month        = feb,
+	  title        = {{BSLID-Report: BSL Images Data Report v1.4}},
+	  month        = apr,
 	  year         = 2016,
 	  doi          = {10.5281/zenodo.49905},
 	  url          = {http://trucomanx.github.io/BSLID-Report/}
 	}
 
 ## DOI
-DOI number of current release
+DOI number of current release: 
 [![DOI](https://zenodo.org/badge/18474/trucomanx/BSLID-Report.svg)](https://zenodo.org/badge/latestdoi/18474/trucomanx/BSLID-Report)
 
 ## Repository
