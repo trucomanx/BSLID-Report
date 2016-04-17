@@ -24,3 +24,8 @@ https://github.com/trucomanx/BSLID-Report
 
 ## Website 
 http://trucomanx.github.io/BSLID-Report/
+
+## Example
+
+![readme.pdf](https://raw.githubusercontent.com/trucomanx/BSLID-Report/master/Data-Template/readme-1.png)
+
