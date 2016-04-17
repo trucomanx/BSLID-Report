@@ -8,8 +8,7 @@ Templates for the presentation of biospeckle data.
 
 	@misc{fernando_pujaico_rivera_2016_46402,
 	  author       = {Fernando Pujaico Rivera},
-	  title        = {{BiospeckleData-Templates: Processing  and data 
-	                   report examples}},
+	  title        = {{BiospeckleData-Templates: Data report examples}},
 	  month        = feb,
 	  year         = 2016,
 	  doi          = {10.5281/zenodo.46402},
