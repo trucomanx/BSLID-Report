@@ -8,7 +8,7 @@ Template for the biospeckle-laser images data report.
 
 	@misc{fernando_pujaico_rivera,
 	  author       = {Fernando Pujaico Rivera},
-	  title        = {{BSLID-Report: BSL Images Data Report v1.4}},
+	  title        = {{BSLID-Report: BSL Images Data Report v1.5}},
 	  month        = apr,
 	  year         = 2016,
 	  doi          = {10.5281/zenodo.49905},
