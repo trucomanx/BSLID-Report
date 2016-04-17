@@ -11,7 +11,7 @@ Template for the biospeckle-laser images data report.
 	  title        = {{BSLID-Report: BSL Images Data Report v1.5}},
 	  month        = apr,
 	  year         = 2016,
-	  doi          = {10.5281/zenodo.49905},
+	  doi          = {10.5281/zenodo.49908},
 	  url          = {http://trucomanx.github.io/BSLID-Report/}
 	}
 
