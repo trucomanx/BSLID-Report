@@ -1,6 +1,6 @@
 {
-  "name": "Biospeckle Data  - Templates",
-  "tagline": "Templates for the presentation and processing of biospeckle data.",
+  "name": "BSLID-Report",
+  "tagline": "BSL Images Data Report",
   "body": "# BSL Images Data Report\r\nTemplate for the biospeckle-laser images data report. \r\n\r\n## Directory structure\r\n* **Data-Template:** Has a template in Latex for the creation of a readme PDF file for the presentation of biospeckle data. Example [here](https://github.com/trucomanx/BiospeckleData-Templates/raw/master/Data-Template/readme.pdf).\r\n\r\n## Cite\r\n\r\n\t@misc{fernando_pujaico_rivera,\r\n\t  author       = {Fernando Pujaico Rivera},\r\n\t  title        = {{BSLID-Report: BSL Images Data Report v1.5}},\r\n\t  month        = apr,\r\n\t  year         = 2016,\r\n\t  doi          = {10.5281/zenodo.49908},\r\n\t  url          = {http://trucomanx.github.io/BSLID-Report/}\r\n\t}\r\n\r\n## DOI\r\nDOI number of current release: \r\n[![DOI](https://zenodo.org/badge/18474/trucomanx/BSLID-Report.svg)](https://zenodo.org/badge/latestdoi/18474/trucomanx/BSLID-Report)\r\n\r\n## Repository\r\nhttps://github.com/trucomanx/BSLID-Report\r\n\r\n## Website \r\nhttp://trucomanx.github.io/BSLID-Report/\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
